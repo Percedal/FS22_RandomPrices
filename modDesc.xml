@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="63">
+    <author>Az#4971</author>
+    <version>1.0.0.0</version>
+
+	<title>
+		<en>Random Prices</en>
+	</title>
+	
+	<description>
+		<en><![CDATA[Ignores annual price fluctuations]]></en>
+	</description>
+	
+    <!---<iconFilename>ChoppedStraw.dds</iconFilename>-->
+    <!-- <multiplayer supported="true"/> -->
+
+
+    <extraSourceFiles>
+        <sourceFile filename="RandomPrices.lua" />		
+    </extraSourceFiles>
+
+</modDesc>
